@@ -1,9 +1,48 @@
-<p align="center">
-  <img src="https://github.com/ccyl13/ccyl13/blob/main/banner.png?raw=true" alt="Banner Thomas Ethical Hacker" width="100%"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Víctor+👋;Cybersecurity+Specialist+🛡️;CTF+Player+🏆;Linux+Enthusiast+🐧&center=true&size=36&color=009922&width=700&height=100&duration=2700&pause=1000" alt="Typing SVG" />  
+</h1>
 
-<h1 align="center">💀 Thomas O’neil Álvarez</h1>
-<h3 align="center">Ethical Hacker | Ciberseguridad | Red Team</h3>
+###
+
+<div align="center">
+  <a href="https://app.hackthebox.com/profile/1728358" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://hackmyvm.eu/public/?u=belin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Knowledge</h2>
+
+###
+
+<div align="center">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=c,bash,powershell,python,php,java,mysql,vim,jekyll,latex,windows,wsl,linux,arch,kali,raspberrypi,kubernetes,docker,tor,githubdesktop,gitbash,git&perline=7"
+    />
+  </a>
+
+  
+</div>
+
+###
+
+
+
+<h2 align="left">Sources and mentors</h2>
+
+###
+
+<p align="center">https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
+
+---
+
+<h1 align="center">Hi! I'm Víctor</h1>
+<h3 align="center">Cybersecurity Analyst & Enthusiast | CTF Player | Blue  Team</h3>
 
 ---
 
@@ -13,55 +52,10 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
 
 ---
 
-### 🥇 Reconocimiento destacado
-
-<p align="center">
-  <img src="https://github.com/ccyl13/ccyl13/blob/main/ranking-favikon.jpeg?raw=true" alt="Ranking Favikon Thomas" width="90%"/>
-</p>
-
-<p align="center">
-  <strong>🏆 Número #1 en LinkedIn España</strong><br>
-  En la categoría de <strong>Ciberseguridad</strong> según <a href="https://favikon.com/">Favikon</a> 🔐🔥
-</p>
-
----
-
-### 🎓 Curso destacado: Hazte viral en LinkedIn
-
-<p align="center">
-  <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">
-    <img src="https://github.com/ccyl13/ccyl13/blob/main/hazte-viral-banner.png?raw=true" alt="Curso Hazte Viral en LinkedIn" width="80%" />
-  </a>
-</p>
-
-<p align="center">
-  💥 Aprende a destacar como profesional tech en LinkedIn  
-  📈 Posiciónate, escribe contenido viral y genera oportunidades reales  
-  👉 <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">Descúbrelo aquí</a>
-</p>
-
----
-
 ### ⚙️ Tecnologías y herramientas que uso
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,java,react,bootstrap,mysql,firebase,postman,nodejs" />
-</p>
-
----
-
-### 🛡️ Herramientas de Red Team
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Empire-PostExploitation-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cobalt%20Strike-APT%20Simulation-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BloodHound-AD%20Mapping-7D3C98?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CrackMapExec-Windows%20Hacking-117A65?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Impacket-Protocol%20Exploitation-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SET-Social%20Engineering%20Toolkit-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracker-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-Exploit%20Framework-5e5c5c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-Offensive%20Platform-50617A?style=for-the-badge"/>
 </p>
 
 ---
@@ -80,26 +74,8 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
 
 ---
 
-### 📊 Lenguajes más usados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccyl13&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-
----
-
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccyl13&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
-
----
-
 ### 🌐 Encuéntrame en:
 
 <p align="center">
-  <a href="https://github.com/ccyl13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thomasoneil%C3%A1lvarez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/thomas_oneil_alvarez_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
