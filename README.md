@@ -24,11 +24,11 @@ Analista de ciberseguridad especializado en Blue Team pero con una fuerte pasió
 
 ### 👨‍💻 Inspiration and mentors
 
-<p align="center"> https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
+<p align="center"> https://hack4u.io/ | https://academy.hackthebox.com/ | https://tryhackme.com/hacktivities | https://hackmyvm.eu | https://app.letsdefend.io/training | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://academy.networkchuck.com/home | https://www.elrincondelhacker.es/formaciones </p>
 
 ---
 
-### ⚙️ Tecnologías y herramientas que uso
+### 🛠️ Tecnologías y herramientas que uso
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,java,react,bootstrap,mysql,firebase,postman" />
