@@ -67,7 +67,7 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
 ### 🌐 Encuéntrame en:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-henry-fall-turrientes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/victor-henry-fall-turrientes/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
   <a href="https://app.hackthebox.com/users/2320521?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs"><img src="https://img.shields.io/badge/-HackTheBox-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
   <a href="https://tryhackme.com/p/oftiitor"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111"/></a>
   <a href="https://hackmyvm.eu/profile/?user=oftiitor"><img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge"/></a>
