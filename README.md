@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Víctor+👋🏾;Cybersecurity+Analyst+🔐;CTF+Player+☑️;Linux+Enthusiast🐧&center=true&size=36&color=009922&width=700&height=100&duration=2700&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Víctor+👋🏾;Cybersecurity+Analyst+🔐;CTF+Player+☑️;Linux+Enthusiast🐧&center=true&size=36&color=009922&width=700&height=100&duration=2700&pause=1000" alt="Typing SVG" />
 </h1>
 
 ###
@@ -24,23 +24,16 @@
 
 <p align="center">https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
 
----
-
-<h1 align="center">Hi! I'm Víctor</h1>
-<h3 align="center">Cybersecurity Analyst & Enthusiast | CTF Player | Blue  Team</h3>
-
----
-
 ### 🧠 Sobre mí
 
-Pentester y divulgador en ciberseguridad. Especializado en hacking ético, administración de sistemas y marca personal tech en LinkedIn. Ayudo a profesionales a potenciar su perfil y generar impacto en redes.
+Analista de ciberseguridad especializado en Blue Team pero con una fuerte pasión por el pentesting y el hacking ético.
 
 ---
 
 ### ⚙️ Tecnologías y herramientas que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,java,react,bootstrap,mysql,firebase,postman,nodejs" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,java,react,bootstrap,mysql,firebase,postman" />
 </p>
 
 ---
