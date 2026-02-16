@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Víctor+👋🏾;Cybersecurity+Analyst+🔐;CTF+Player+☑️;Linux+Enthusiast🐧&center=true&size=36&color=009922&width=700&height=100&duration=2700&pause=1000" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Víctor+👋🏾;Cybersecurity+Analyst+🔐;CTF+Player+☑️;Linux+Enthusiast🐧&center=true&size=36&color=009922&width=700&height=100&duration=2700&pause=1000" alt="Typing SVG">
 </h1>
+
+###
 
 <h2 align="left">Knowledge</h2>
 
