@@ -4,20 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://app.hackthebox.com/users/2320521?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" height="35" alt="hackerrank logo"/>
-  </a>
-  <a href="https://hackmyvm.eu/profile/?user=oftiitor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"/>
-  </a>
-  <a href="https://tryhackme.com/p/oftiitor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"/>
-  </a>
-</div>
-
-###
-
 <h2 align="left">Knowledge</h2>
 
 ###
@@ -27,14 +13,10 @@
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=c,bash,powershell,python,php,java,mysql,vim,jekyll,latex,windows,wsl,linux,arch,kali,raspberrypi,kubernetes,docker,tor,githubdesktop,gitbash,git&perline=7"
     />
-  </a>
-
-  
+  </a>  
 </div>
 
 ###
-
-
 
 <h2 align="left">Sources and mentors</h2>
 
@@ -86,4 +68,7 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-henry-fall-turrientes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://app.hackthebox.com/users/2320521?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs"><img src="https://img.shields.io/badge/-HackTheBox-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+  <a href="https://tryhackme.com/p/oftiitor"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111"/></a>
+  <a href="https://hackmyvm.eu/profile/?user=oftiitor"><img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge"/></a>
 </p>
