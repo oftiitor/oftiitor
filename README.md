@@ -2,15 +2,15 @@
   <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Víctor+👋🏾;Cybersecurity+Analyst+🔐;CTF+Player+☑️;Linux+Enthusiast🐧&center=true&size=36&color=009922&width=700&height=100&duration=2700&pause=1000" alt="Typing SVG" />
 </h1>
 
-### 🧠 Sobre mí
+---
+
+### 🤙🏾 About Me
 
 Analista de ciberseguridad especializado en Blue Team pero con una fuerte pasión por el pentesting y el hacking ético.
 
-###
+---
 
-<h2 align="left">Knowledge</h2>
-
-###
+### 🧠 Knowledge
 
 <div align="center">
     <a href="https://go-skill-icons.vercel.app/">
@@ -20,17 +20,11 @@ Analista de ciberseguridad especializado en Blue Team pero con una fuerte pasió
   </a>  
 </div>
 
-###
+---
 
-<h2 align="left">Sources and mentors</h2>
+### 👨‍💻 Inspiration and mentors
 
-###
-
-<p align="center">https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
-
-### 🧠 Sobre mí
-
-Analista de ciberseguridad especializado en Blue Team pero con una fuerte pasión por el pentesting y el hacking ético.
+<p align="center"> https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
 
 ---
 
