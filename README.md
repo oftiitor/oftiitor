@@ -85,5 +85,5 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
 ### 🌐 Encuéntrame en:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thomasoneil%C3%A1lvarez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/victor-henry-fall-turrientes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
